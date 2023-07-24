@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+/* .mysidebar{
+  margin: 0 ;
+  width:100%;
+  background-color: aliceblue;
+  height: 500px;
+}
+
+.sidemenu{
+  width:20%;
+  background-color:lightgray;
+  height: 500px;
+} */
+.home,
+.reports,
+.products {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
